@@ -53,7 +53,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ParceDataWpf\Dialog\Dialog.csproj">
+    <ProjectReference Include="..\Dialog\Dialog.csproj">
       <Project>{486b0766-d850-40e1-9e62-ee367efa9f33}</Project>
       <Name>Dialog</Name>
     </ProjectReference>

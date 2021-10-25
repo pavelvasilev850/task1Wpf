@@ -121,10 +121,6 @@
     <Resource Include="icon.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ParseLibrary\ParseLibrary.csproj">
-      <Project>{bf8a4d1f-9db4-4ec6-a060-42a228f02b5d}</Project>
-      <Name>ParseLibrary</Name>
-    </ProjectReference>
     <ProjectReference Include="Dialog\Dialog.csproj">
       <Project>{486b0766-d850-40e1-9e62-ee367efa9f33}</Project>
       <Name>Dialog</Name>
